@@ -1,3 +1,4 @@
+# TODO add old versions
 # Magic Hypercube Generator
 *The product of roughly 6 years of very intermittent iteration and improvement*
 
